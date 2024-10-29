@@ -1,2 +1,3 @@
 Some text for header from vim command
+Changes from master
 
